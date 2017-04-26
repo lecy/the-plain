@@ -11,12 +11,21 @@ In order to make the data accessible to the research community, we have created 
 
 We have begun the process to catalog and document these resources, and will begin sharing them through the Dataverse Open Data portal:
 
-[NONPROFIT INITIATIVE FOR OPEN DATA (NIOD)](https://dataverse.harvard.edu/dataverse/NIOD)
-
 <br>
 
+### Blog on New Data
 
-# Available Data
+Check out [blog posts](blog.html) on news from the collective.
+
+
+### Discussion Board
+
+If you have questions 
+
+
+
+
+# Available Datasets
 
 We have documented and posted the following open data assets:
 
