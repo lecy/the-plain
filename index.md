@@ -1,6 +1,11 @@
-# New Page
+---
+layout: page
+title: New Page
+---
 
 Here is my text
+
+Check out our [blog](blog.html).
 
 ```r
 
