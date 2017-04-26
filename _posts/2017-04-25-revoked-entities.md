@@ -9,7 +9,7 @@ title: ORGANIZATIONS WITH 501(c)(3) STATUS REVOKED
 >
 >Format: Pipe-Delimited ASCII Text
 >
->The Automatic Revocation information will be listed in rows, with each field of data separated by a pipe ('\\|') symbol. The following table describes the format and order of each field in a row, representing one Automatic Revocation listing.
+>The Automatic Revocation information will be listed in rows, with each field of data separated by a pipe ('\|') symbol. The following table describes the format and order of each field in a row, representing one Automatic Revocation listing.
 
 
 
