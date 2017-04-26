@@ -46,7 +46,7 @@ blockquote {
 }
 .logo {
   position: relative;
-  margin: 0 auto 35px;
+  margin: 0 auto 100px;
   text-align: center;
   animation-duration: 0.7s;
   animation-fill-mode: both;
@@ -55,7 +55,7 @@ blockquote {
   -webkit-animation-fill-mode: both;
   -webkit-animation-name: bounce;
   a {
-    background: #ddd url("gravatar_wrapper.png");
+    background: #ddd;
     color: #000;
     text-decoration: none;
     font-weight: 700;
