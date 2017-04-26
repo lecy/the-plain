@@ -3,13 +3,13 @@ title: ORGANIZATIONS WITH 501(c)(3) STATUS REVOKED
 ---
 
 
-[Revoked Entities Files](From: https://apps.irs.gov/app/eos/forwardToRevokeDownload.do)
+[Revoked Entities Files](https://apps.irs.gov/app/eos/forwardToRevokeDownload.do)
 
 >Using the link below, you may download as a zipped text file the most recent listing of all organizations whose federal tax exemption was automatically revoked for not filing a Form 990-series annual return or notice for three consecutive tax years. The download file is a large compressed file, from which you may extract a very large delimited text file. This file is updated on a monthly basis. Opening the file using word processing software may prevent formatting/appearance issues that may be present if the file is viewed with a text editing program. Information is available describing the layout and contents of the downloadable file.
 >
 >Format: Pipe-Delimited ASCII Text
 >
->The Automatic Revocation information will be listed in rows, with each field of data separated by a pipe ('|') symbol. The following table describes the format and order of each field in a row, representing one Automatic Revocation listing.
+>The Automatic Revocation information will be listed in rows, with each field of data separated by a pipe ('\\|') symbol. The following table describes the format and order of each field in a row, representing one Automatic Revocation listing.
 
 
 
