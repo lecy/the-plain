@@ -9,7 +9,7 @@ This will be your About page. Anything about you, it should be written here in d
 
 **Less is more..**
 
-
+<div>
 <!-- start sw-rss-feed code --> 
 <script type="text/javascript"> 
 <!-- 
@@ -54,4 +54,5 @@ rssfeed_cache = "c3715a92870f3c2d318223c6822704a7";
 <script type="text/javascript" src="http://feed.surfing-waves.com/js/rss-feed.js"></script> 
 <!-- The link below helps keep this service FREE, and helps other people find the SW widget. Please be cool and keep it! Thanks. --> 
 <div style="text-align:right; width:500px;"><a href="http://www.surfing-waves.com/feed.htm" target="_blank" style="color:#ccc;font-size:10px">widget @</a> <a href="http://www.surfing-waves.com" target="_blank" style="color:#ccc;font-size:10px">surfing-waves.com</a></div> 
+</div>
 <!-- end sw-rss-feed code -->
