@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Project
+title: ~ ~ ~
 ---
 
 ### Opening Data for Nonprofit Research
