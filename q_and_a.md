@@ -11,7 +11,7 @@ Here is where the RSS feed goes.
 
 <script type="text/javascript"> 
 rssfeed_url = new Array(); 
-rssfeed_url[0]="https://groups.google.com/forum/feed/irs-990-collaborative-shared-group-space/msgs/rss.xml?num=15";  
+rssfeed_url[0]="https://groups.google.com/forum/feed/irs-990-collaborative-shared-group-space/msgs/rss.xml";  
 rssfeed_frame_width="400"; 
 rssfeed_frame_height="250"; 
 rssfeed_scroll="on"; 
