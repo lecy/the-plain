@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 comments: true
 title: Lorem Ipsum
 updated: 2015-09-06 15:56
