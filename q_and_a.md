@@ -8,6 +8,7 @@ comments: true
 Here is where the RSS feed goes.
 
 
+<script type="text/javascript" src="http://output25.rssinclude.com/output?type=js&amp;id=1135837&amp;hash=476cea7bb797403ae121c2de3db25043"></script>
 
 
 
