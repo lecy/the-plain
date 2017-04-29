@@ -4,6 +4,26 @@
 http://blog.emmatosch.com/2016/03/09/using-custom-javascript-in-jekyll-blogs.html
 
 
+# Feed Reader Generator:
+
+https://feed.mikle.com/?gclid=CMCOjPbrhKUCFQNY2godQ14IPw
+
+
+THIS ONE !!!
+```
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" data-fw-param="25490/"></script>
+```
+
+From:
+
+https://www.sitepoint.com/community/t/how-to-add-an-rss-feed-from-bbc-news-to-my-site/6693
+
+
+
+
+
+
+
 # Google RSS Feed Widget:
 
 http://www.developerdrive.com/2012/03/a-simple-way-to-add-free-news-content-to-your-website/
