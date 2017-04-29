@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: newsfeed
 title: Discussion Forum
 ---
 
