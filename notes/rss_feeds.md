@@ -1,9 +1,12 @@
 
+## Custom Javascript
+
+http://blog.emmatosch.com/2016/03/09/using-custom-javascript-in-jekyll-blogs.html
+
 
 ## RSS Feed Reader Widgets
 
-Get a free feed widget here:  http://www.surfing-waves.com/feed.htm
-
+Generate a free feed widget here:  http://www.surfing-waves.com/feed.htm
 
 ```
 <!-- start sw-rss-feed code --> 
