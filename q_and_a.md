@@ -1,6 +1,7 @@
 ---
 layout: newsfeed
 title: Discussion Forum
+comments: true
 ---
 
 
