@@ -20,7 +20,7 @@ Check out [blog posts](blog.html) on news from the collective.
 
 ### Discussion Board
 
-If you have questions 
+If you have questions about using datasets [check here](q_and_a.md).
 
 
 
